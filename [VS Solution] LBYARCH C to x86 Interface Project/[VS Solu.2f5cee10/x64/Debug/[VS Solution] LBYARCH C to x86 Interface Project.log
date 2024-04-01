@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\reire\source\repos\LBYARCH-x86-to-C-Interface-Project\[VS Solution] LBYARCH C to x86 Interface Project\main.c(25,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  [VS Solution] LBYARCH C to x86 Interface Project.vcxproj -> C:\Users\reire\source\repos\LBYARCH-x86-to-C-Interface-Project\[VS Solution] LBYARCH C to x86 Interface Project\x64\Debug\[VS Solution] LBYARCH C to x86 Interface Project.exe
